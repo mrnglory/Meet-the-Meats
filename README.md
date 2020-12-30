@@ -1,7 +1,7 @@
 # Meet-the-Meats
 EON Reality's own program is required to run this file. This is because I used the program at the time of production (EON Reality is a VR/AR/MR company in Singapore).
 
-So, unfortunately, you probably won't be able to play this game yourself. At the time of production, I should have distributed this file as an executable file, but I couldn't. In the future, I will take action if I have a chance to get EON's own program. Furthurmore, since the source file is over 25MB, I ran into a problem that I could not commit this. Once the problem is resolved, I will commit this as soon as possible.
+So, unfortunately, you probably won't be able to play this game yourself. At the time of production, I should have distributed this file as an executable file, but I couldn't. In the future, I will take action if I have a chance to get EON's own program. Furthurmore, since the source file is over 25MB, I ran into a problem that I could not commit this. Once the problem is resolved, I'll do this as soon as possible.
 
 This is the first game in my life made through the VR/AR production-1 class during the 2017-1 semester. The theme is to make meat by picking up cows from the ranch in a truck and taking them to the slaughterhouse. It is the result of a simple and bizarre idea that came out of the head of a young girl (me).
 
